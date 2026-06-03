@@ -1,0 +1,66 @@
+# Unreal Engine generated directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Project-local build outputs and packaged builds
+Build/Receipts/
+Build/*/FileOpenOrder/
+Build/*/NotForLicensees/
+Build/*/NoRedist/
+Releases/
+StagedBuilds/
+SavedCooked/
+
+# Visual Studio / Rider / Xcode / IDE files
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+
+# Unreal generated project files
+*.code-workspace
+*.xcworkspace
+
+# Compiled binaries and debug symbols
+*.dll
+*.dylib
+*.exe
+*.lib
+*.obj
+*.pdb
+*.so
+*.app
+*.ipa
+
+# Logs, crash reports, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+CrashReportClient/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python cache sometimes created by UE plugins/tools
+__pycache__/
+*.py[cod]
+
+# Keep source assets and project files tracked:
+# Config/
+# Content/
+# Source/
+# Plugins/
+# *.uproject
